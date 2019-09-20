@@ -14,7 +14,7 @@ EXTENSION="csv"
 RESULT_DIR="result"
 PROCESSED_LOGS_DIR="processed"
 RESULT_DIR="result"
-AWK_SCRIPT="ex.awk"
+AWK_SCRIPT="tram.awk"
 while [[ $# -gt 1 ]]
 do
     key="$1"
